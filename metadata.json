@@ -1,0 +1,7 @@
+{
+  "name": "Kessler Syndrome AR Game",
+  "description": "An AR game where you grab space debris and drop it into a plasma incinerator using hand tracking.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
